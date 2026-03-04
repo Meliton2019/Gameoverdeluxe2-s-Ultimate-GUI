@@ -111,7 +111,7 @@ end
 local nextY = 0
 nextY = createButton("Infinite Yield (Admin)", nextY, "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
 nextY = createButton("CMD-X (600+ Cmds)", nextY, "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source")
-nextY = createButton("c00lgui Reborn", nextY, "https://raw.githubusercontent.com/Gazer6541/C00lgui/refs/heads/main/C00lgui"
+nextY = createButton("c00lgui Reborn", nextY, "https://raw.githubusercontent.com/Gazer6541/C00lgui/refs/heads/main/C00lgui")
 nextY = createButton("Fly GUI", nextY, "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/fly.lua")  -- Fly simple
 nextY = createButton("ESP Players", nextY, "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/esp.lua")
 nextY = createButton("DEX Explorer", nextY, "https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.txt")
